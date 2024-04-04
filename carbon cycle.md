@@ -7,3 +7,4 @@ see also :
 4. Organisms die and decompose. Decomposers (bacteria and fungi) break down dead.
 material and release CO2 via respiration.
 5. Combustion of materials (e.g. wood, fossil fuels) releases CO2
+6. 

@@ -1,6 +1,6 @@
 see also 
 [[eutrophication]]
-[[decompisition]] 
+
 
 1. Organisms die and decompose. Decomposers break down proteins and urea into
 ammonia.
